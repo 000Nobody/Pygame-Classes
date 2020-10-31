@@ -1,2 +1,2 @@
 # Pygame Classes
- Some easy to use pygme additions
+ Some easy to use pygme additions (documentation coming soon)
